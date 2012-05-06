@@ -1,0 +1,8 @@
+
+
+Processing NewsController#index (for 127.0.0.1 at 2009-12-21 16:17:56) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: ):
+  haml (2.2.16) lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering rescues/layout (not_found)
